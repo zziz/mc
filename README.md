@@ -1,7 +1,7 @@
 # Monte Carlo
 Monte Carlo methods with TensorFlow   
 
-1. Motivation: estimate pi with Monte Carlo integration
+1. [Motivation: estimate pi with Monte Carlo integration](estimate-pi/estimate-pi.py)
 2. Rejection Sampling   
 3. Importance Sampling    
 4. Monte Carlo Markov Chain   
