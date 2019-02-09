@@ -1,5 +1,4 @@
-# Monte Carlo
-Monte Carlo methods with TensorFlow   
+## Monte Carlo methods with TensorFlow
 
 1. [Motivation: estimate pi with Monte Carlo integration](estimate-pi)
 2. Rejection Sampling   
